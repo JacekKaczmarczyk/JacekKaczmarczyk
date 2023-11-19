@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jacek</h1>
-<h3 align="center">A IT student from Poland</h3>
+<h3 align="center">A Software Engineer from Poland</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jacekkaczmarczyk&label=Profile%20views&color=0e75b6&style=flat" alt="jacekkaczmarczyk" /> </p>
 
-- 🔭 I’m currently working on **some C++ projects**
-
-- 🌱 I’m currently learning **Java script**
+- 🔭 I’m currently working on **some GoLang projects**
 
 - 💬 Ask me about **anything**
 
